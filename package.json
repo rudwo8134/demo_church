@@ -2,13 +2,13 @@
   "name": "church",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rudwo8134.github.io/demo_church/",
   "dependencies": {
     "@material-ui/core": "^4.11.4",
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
     "gh-pages": "^3.1.0",
-    "homepage": "https://rudwo8134.github.io/demo_church/",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-icons": "^4.2.0",
@@ -40,5 +40,7 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+
   }
+  
 }
